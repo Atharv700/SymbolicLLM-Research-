@@ -12,5 +12,4 @@
 ## 🧩 Why Symbolic Language?
 Unlike linear text, **symbols are compact, multi-semantic, and visually distinguishable**—making them an ideal candidate for AI interfaces that aim for universality and minimal reliance on alphabetic literacy. This approach also aligns well with cognitive models in early language learning and communication.
 
-## 🔍 Project Structure
-# SymbolicLLM-Research-
+
